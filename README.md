@@ -6,3 +6,6 @@ https://github.com/aigit-org/various_brainstorming_materials/blob/main/Modern%20
 Biosphere Operating System =: BOS - Planetary =: PBOS &amp; Universal =: UBOS: architecture pics by ChatGPT:
 https://github.com/biosphere-os/various/blob/main/pbos.png
 https://github.com/biosphere-os/various/blob/main/ubos.png
+
+A link (needs work: copying from ChatGPT personal threads/private KB):
+https://github.com/PBS-post-Bostrom-stack
